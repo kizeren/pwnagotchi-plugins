@@ -4,3 +4,9 @@
 [submodule "xfox64x/pwnagotchi_plugins"]
 	path = xfox64x/pwnagotchi_plugins
 	url = https://github.com/xfox64x/pwnagotchi_plugins
+[submodule "V0r-T3x/fancygotchi"]
+	path = V0r-T3x/fancygotchi
+	url = https://github.com/V0r-T3x/fancygotchi
+[submodule "cyberartmemio/wardriver-pwnagotchi-plugin"]
+	path = cyberartmemio/wardriver-pwnagotchi-plugin
+	url = https://github.com/cyberartemio/wardriver-pwnagotchi-plugin
