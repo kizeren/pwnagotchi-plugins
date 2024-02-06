@@ -10,3 +10,51 @@
 [submodule "cyberartmemio/wardriver-pwnagotchi-plugin"]
 	path = cyberartmemio/wardriver-pwnagotchi-plugin
 	url = https://github.com/cyberartemio/wardriver-pwnagotchi-plugin
+[submodule "tisboyo/pwnagotchi-pisguar2-plugin"]
+	path = tisboyo/pwnagotchi-pisguar2-plugin
+	url = https://github.com/tisboyo/pwnagotchi-pisugar2-plugin
+[submodule "flamebarke/DiscoHash"]
+	path = flamebarke/DiscoHash
+	url = https://github.com/flamebarke/DiscoHash
+[submodule "V0r-T3x/pwnagotchi_plugins"]
+	path = V0r-T3x/pwnagotchi_plugins
+	url = https://github.com/V0r-T3x/pwnagotchi_plugins
+[submodule "PwnPeter/pwnagotchi-plugins"]
+	path = PwnPeter/pwnagotchi-plugins
+	url = https://github.com/PwnPeter/pwnagotchi-plugins
+[submodule "V0r-T3x/pwnagotchi_LCD_colorized_darkmode"]
+	path = V0r-T3x/pwnagotchi_LCD_colorized_darkmode
+	url = https://github.com/V0r-T3x/pwnagotchi_LCD_colorized_darkmode
+[submodule "sixt0o/f0xtr0t"]
+	path = sixt0o/f0xtr0t
+	url = https://github.com/sixt0o/f0xtr0t
+[submodule "NoxiousKarn/Showerthoughts"]
+	path = NoxiousKarn/Showerthoughts
+	url = https://github.com/NoxiousKarn/Showerthoughts
+[submodule "ad/pwnmothership"]
+	path = ad/pwnmothership
+	url = https://github.com/ad/pwnmothership
+[submodule "cyberartmemio/wof-pwnagotchi-plugin"]
+	path = cyberartmemio/wof-pwnagotchi-plugin
+	url = https://github.com/cyberartemio/wof-pwnagotchi-plugin
+[submodule "ZTube/pwnagotchi-plugins-contrib"]
+	path = ZTube/pwnagotchi-plugins-contrib
+	url = https://github.com/ZTube/pwnagotchi-plugins-contrib
+[submodule "mavotronik/pwnagotchi-plugins"]
+	path = mavotronik/pwnagotchi-plugins
+	url = https://github.com/mavotronik/pwnagotchi-plugins
+[submodule "Sliim/pwnagotchi-slack-plugin"]
+	path = Sliim/pwnagotchi-slack-plugin
+	url = https://github.com/Sliim/pwnagotchi-plugins
+[submodule "Omodaka9375/pwnagotchi-slack-plugin"]
+	path = Omodaka9375/pwnagotchi-slack-plugin
+	url = https://github.com/Omodaka9375/pwnagotchi-slack-plugin
+[submodule "Sliim/pwnagotchi-plugins"]
+	path = Sliim/pwnagotchi-plugins
+	url = https://github.com/Sliim/pwnagotchi-plugins
+[submodule "qLJB/pwnagotchi-bookworm-pisugar2-plugin"]
+	path = qLJB/pwnagotchi-bookworm-pisugar2-plugin
+	url = https://github.com/qLJB/pwnagotchi-bookworm-pisugar2-plugin
+[submodule "qLJB/pwnagotchi-http-module"]
+	path = qLJB/pwnagotchi-http-module
+	url = https://github.com/qLJB/pwnagotchi-http-module
