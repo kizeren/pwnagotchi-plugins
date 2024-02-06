@@ -1,6 +1,7 @@
 
 # List of pwnagotchi plugins
 Want your plugin added?  Just find me on the pwnagotchi discord and let me know.
+[![](https://dcbadge.vercel.app/api/server/BJDB8YPFJ3)](https://discord.gg/BJDB8YPFJ3)
 
 ## ad
 - pwnmothership
