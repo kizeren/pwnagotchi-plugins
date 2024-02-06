@@ -1,3 +1,6 @@
 [submodule "wardriver-pwnagotchi-plugin"]
 	path = wardriver-pwnagotchi-plugin
 	url = https://github.com/cyberartemio/wardriver-pwnagotchi-plugin
+[submodule "xfox64x/pwnagotchi_plugins"]
+	path = xfox64x/pwnagotchi_plugins
+	url = https://github.com/xfox64x/pwnagotchi_plugins
