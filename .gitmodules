@@ -58,3 +58,12 @@
 [submodule "qLJB/pwnagotchi-http-module"]
 	path = qLJB/pwnagotchi-http-module
 	url = https://github.com/qLJB/pwnagotchi-http-module
+[submodule "evilsocket/pwnagotchi-plugins-contrib"]
+	path = evilsocket/pwnagotchi-plugins-contrib
+	url = https://github.com/evilsocket/pwnagotchi-plugins-contrib
+[submodule "dadav/pwnagotchi-custom-plugins"]
+	path = dadav/pwnagotchi-custom-plugins
+	url = https://github.com/dadav/pwnagotchi-custom-plugins
+[submodule "GaelicThunder/Experience-Plugin-Pwnagotchi"]
+	path = GaelicThunder/Experience-Plugin-Pwnagotchi
+	url = https://github.com/GaelicThunder/Experience-Plugin-Pwnagotchi
