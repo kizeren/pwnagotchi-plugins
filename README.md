@@ -1,5 +1,6 @@
 
 # List of pwnagotchi plugins
+Want your plugin added?  Just find me on the pwnagotchi discord and let me know.
 
 ## ad
 - pwnmothership
