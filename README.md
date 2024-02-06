@@ -1,9 +1,7 @@
-# pwnagotchi-plugins
-Several pwnagotchi plugins
 
-## List of pwnagotchi plugins
+# List of pwnagotchi plugins
 
-# ad
+## ad
 - pwnmothership
 
 # dadav
