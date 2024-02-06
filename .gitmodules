@@ -1,0 +1,3 @@
+[submodule "wardriver-pwnagotchi-plugin"]
+	path = wardriver-pwnagotchi-plugin
+	url = https://github.com/cyberartemio/wardriver-pwnagotchi-plugin
