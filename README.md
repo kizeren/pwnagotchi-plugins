@@ -4,7 +4,7 @@
 ## ad
 - pwnmothership
 
-# dadav
+## dadav
 - aircrackonly
 buttonshim
 deauth
@@ -35,17 +35,17 @@ ups_lite
 webgpsmap
 wpa-sec
 
-# flamebarke
+## flamebarke
 - Discohash
 
-# NoxiousKarn
+## NoxiousKarn
 - Showerthoughts
 
-# PwnPeter
+## PwnPeter
 - handshakes-dl-hashie
 hashie-hcxpcapngtool
 
-# Sliim
+## Sliim
 - darkmode
 gps_error
 gps_fix
@@ -60,7 +60,7 @@ waveshare_v3_touch
 xp_grid
 xp
 
-# V0r-T3x
+## V0r-T3x
 - fancygotchi
 pwnagotchi_LCD_colorized_darkmode
 crack_house_dev
@@ -71,7 +71,7 @@ fix_region
 memtemp
 pisugar3
 
-# ZTube
+## ZTube
 - aircrackonly
 auto_backup
 buttonshim
@@ -87,11 +87,11 @@ screen_refresh
 telegra
 twitter
 
-# cyberartmemio
+## cyberartmemio
 - wardriver-pwnagotchi-plugin
 wof-pwnagotchi-plugin
 
-# evilsocket
+## evilsocket
 - aircrackonly
 auto_backup
 buttonshim
@@ -108,27 +108,27 @@ screen_refresh
 telegram
 twitter
 
-# GaelicThunder
+## GaelicThunder
 - Experience-Plugin-Pwnagotchi
 
-# mavotronik
+## mavotronik
 - memtemp_adv
 mqtt_plugin
 
-# Omodaka9375
+## Omodaka9375
 - pwnagotchi-slack-plugin
 
-# qLJB
+## qLJB
 - pwnagotchi-bookworm-pisugar2-plugin
 pwnagotchi-http-module
 
-# sixt0o
+## sixt0o
 - f0xtr0t
 
-# tisboyo
+## tisboyo
 - pwnagotchi-pisugar2-plugin
 
-# xfox64x
+## xfox64x
 - event_multithreading_for_plugins
 gsmfake
 quick_rides_to_jail
