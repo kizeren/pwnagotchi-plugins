@@ -8,7 +8,7 @@
 	path = V0r-T3x/fancygotchi
 	url = https://github.com/V0r-T3x/fancygotchi
 [submodule "cyberartmemio/wardriver-pwnagotchi-plugin"]
-	path = cyberartmemio/wardriver-pwnagotchi-plugin
+	path = cyberartemio/wardriver-pwnagotchi-plugin
 	url = https://github.com/cyberartemio/wardriver-pwnagotchi-plugin
 [submodule "tisboyo/pwnagotchi-pisguar2-plugin"]
 	path = tisboyo/pwnagotchi-pisguar2-plugin
@@ -35,7 +35,7 @@
 	path = ad/pwnmothership
 	url = https://github.com/ad/pwnmothership
 [submodule "cyberartmemio/wof-pwnagotchi-plugin"]
-	path = cyberartmemio/wof-pwnagotchi-plugin
+	path = cyberartemio/wof-pwnagotchi-plugin
 	url = https://github.com/cyberartemio/wof-pwnagotchi-plugin
 [submodule "ZTube/pwnagotchi-plugins-contrib"]
 	path = ZTube/pwnagotchi-plugins-contrib
