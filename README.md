@@ -90,7 +90,7 @@ screen_refresh
 telegra
 twitter
 
-## cyberartmemio
+## cyberartemio
 - wardriver-pwnagotchi-plugin
 wof-pwnagotchi-plugin
 
