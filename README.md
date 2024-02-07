@@ -159,7 +159,7 @@ tweak_view
 memtemp-plus
 
 ## itsdarlikehell
--achievements
+- achievements
 age
 agev2
 auto_backup
@@ -268,4 +268,12 @@ wpa-sec-list
 xp_grid
 xp
 
-
+## NeonLightning
+- aircrackonly
+clock
+internet-conection
+IPDisplay
+lcdhatcontrols
+pisugar3
+terminal2
+weather

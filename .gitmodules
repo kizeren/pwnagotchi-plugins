@@ -79,3 +79,6 @@
 [submodule "pwnmothership"]
 	path = pwnmothership
 	url = https://github.com/ad/pwnmothership
+[submodule "NeonLightning/pwny"]
+	path = NeonLightning/pwny
+	url = https://github.com/NeonLightning/pwny
