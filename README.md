@@ -293,4 +293,5 @@ better_onlinehashcrack
 better_quickdic
 mycracked_pw
 
-
+## wpa-2
+- telegram.py
