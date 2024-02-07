@@ -67,3 +67,12 @@
 [submodule "GaelicThunder/Experience-Plugin-Pwnagotchi"]
 	path = GaelicThunder/Experience-Plugin-Pwnagotchi
 	url = https://github.com/GaelicThunder/Experience-Plugin-Pwnagotchi
+[submodule "Sniffleupagus/pwnagotchi_plugins"]
+	path = Sniffleupagus/pwnagotchi_plugins
+	url = https://github.com/Sniffleupagus/pwnagotchi_plugins
+[submodule "crahan/pwnagotchi-plugins"]
+	path = crahan/pwnagotchi-plugins
+	url = https://github.com/crahan/pwnagotchi-plugins
+[submodule "itsdarklikehell/pwnagotchi-plugins"]
+	path = itsdarklikehell/pwnagotchi-plugins
+	url = https://github.com/itsdarklikehell/pwnagotchi-plugins
