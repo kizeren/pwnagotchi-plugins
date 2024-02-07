@@ -76,3 +76,6 @@
 [submodule "itsdarklikehell/pwnagotchi-plugins"]
 	path = itsdarklikehell/pwnagotchi-plugins
 	url = https://github.com/itsdarklikehell/pwnagotchi-plugins
+[submodule "pwnmothership"]
+	path = pwnmothership
+	url = https://github.com/ad/pwnmothership
