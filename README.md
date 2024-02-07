@@ -277,3 +277,20 @@ lcdhatcontrols
 pisugar3
 terminal2
 weather
+
+## adi170-alt
+- pwnagotchi-banthex-upload
+
+## c-nagy
+- pwnagotchi-educational-purposes-only-plugin
+
+## jjensn
+- hashespwnagotchi
+ 
+## SilenTree12th
+- better_apfaker
+better_onlinehashcrack
+better_quickdic
+mycracked_pw
+
+

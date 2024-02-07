@@ -82,3 +82,15 @@
 [submodule "NeonLightning/pwny"]
 	path = NeonLightning/pwny
 	url = https://github.com/NeonLightning/pwny
+[submodule "SilenTree12th/pwnagotchi_plugins"]
+	path = SilenTree12th/pwnagotchi_plugins
+	url = https://github.com/SilenTree12th/pwnagotchi_plugins
+[submodule "c-nagy/pwnagotchi-educational-purposes-only-plugin"]
+	path = c-nagy/pwnagotchi-educational-purposes-only-plugin
+	url = https://github.com/c-nagy/pwnagotchi-educational-purposes-only-plugin
+[submodule "adi170-alt/pwnagotchi-banthex-upload"]
+	path = adi170-alt/pwnagotchi-banthex-upload
+	url = https://github.com/adi170-alt/pwnagotchi-banthex-upload
+[submodule "jjensn/hashespwnagotchi"]
+	path = jjensn/hashespwnagotchi
+	url = https://github.com/jjensn/hashespwnagotchi
