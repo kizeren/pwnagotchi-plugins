@@ -1,8 +1,12 @@
 
 # List of pwnagotchi plugins
-Want your plugin added?  Just find me on the pwnagotchi discord and let me know.
+Want your plugin added?  Find me on the pwnagotchi discord or message me here on github.
 ![](https://dcbadge.vercel.app/api/shield/118990910359994369)
 [![](https://dcbadge.vercel.app/api/server/BJDB8YPFJ3)](https://discord.gg/BJDB8YPFJ3)
+![GitHub Release](https://img.shields.io/github/v/release/cyberartemio/wardriver-pwnagotchi-plugin?style=flat-square)
+ ![GitHub issues](https://img.shields.io/github/issues/cyberartemio/wardriver-pwnagotchi-plugin?style=flat-square)
+ ![GitHub License](https://img.shields.io/github/license/cyberartemio/wardriver-pwnagotchi-plugin?style=flat-square)
+
 
 ## ad
 - pwnmothership
