@@ -3,6 +3,8 @@
 Want your plugin added?  Find me on the pwnagotchi discord or message me here on github.<br>
 Feel free to also submit a pull request adding any new repos I might of missed.<br>
 <br>
+# Download 
+``` git clone --recurse-submodules git://github.com/kizeren/pwnagotchi-plugins.git ```
 
 ![](https://dcbadge.vercel.app/api/shield/118990910359994369)
 [![](https://dcbadge.vercel.app/api/server/BJDB8YPFJ3)](https://discord.gg/BJDB8YPFJ3)<br>
