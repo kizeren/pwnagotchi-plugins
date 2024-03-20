@@ -97,3 +97,9 @@
 [submodule "wpa-2/telegram.py"]
 	path = wpa-2/telegram.py
 	url = https://github.com/wpa-2/telegram.py
+[submodule "wpa-2/tele.py"]
+	path = wpa-2/tele.py
+	url = https://github.com/wpa-2/tele.py
+[submodule "wpa-2/Tele_Pi"]
+	path = wpa-2/Tele_Pi
+	url = https://github.com/wpa-2/Tele_Pi
