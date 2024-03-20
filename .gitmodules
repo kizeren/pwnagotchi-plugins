@@ -97,6 +97,3 @@
 [submodule "wpa-2/telegram.py"]
 	path = wpa-2/telegram.py
 	url = https://github.com/wpa-2/telegram.py
-[submodule "wpa-2/pwnagotchi-plugins"]
-	path = wpa-2/pwnagotchi-plugins
-	url = https://github.com/wpa-2/pwnagotchi-plugins
