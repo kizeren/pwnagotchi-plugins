@@ -9,6 +9,9 @@ Feel free to also submit a pull request adding any new repos I might of missed.<
  ![GitHub issues](https://img.shields.io/github/issues/kizeren/pwnagotchi-plugins?style=flat-square)
  ![GitHub License](https://img.shields.io/github/license/kizeren/pwnagotchi-plugins?style=flat-square)
 
+## Links
+
+https://docs.google.com/spreadsheets/d/1os8TRM3Pc9Tpkqzwu548QsDFHNXGuRBiRDYEsF3-w_A/edit#gid=0 -- VOrT3x
 
 ## ad
 - pwnmothership
