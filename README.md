@@ -311,3 +311,6 @@ tele_pi
 
 ##LegendEvent
 achievements
+
+## JD-2006
+Fallout faces mod
