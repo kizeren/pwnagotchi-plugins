@@ -308,3 +308,6 @@ mycracked_pw
 - telegram
 tele
 tele_pi
+
+##LegendEvent
+achievements

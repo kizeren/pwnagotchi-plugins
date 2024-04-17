@@ -103,3 +103,6 @@
 [submodule "wpa-2/Tele_Pi"]
 	path = wpa-2/Tele_Pi
 	url = https://github.com/wpa-2/Tele_Pi
+[submodule "LegendEvent/pwnagotchi-custom-plugins"]
+	path = LegendEvent/pwnagotchi-custom-plugins
+	url = https://github.com/LegendEvent/pwnagotchi-custom-plugins
