@@ -109,3 +109,6 @@
 [submodule "JD-2006/pwnagotchi-fallout-faces-mod"]
 	path = JD-2006/pwnagotchi-fallout-faces-mod
 	url = https://github.com/JD-2006/pwnagotchi-fallout-faces-mod.git
+[submodule "bryzz42o/Pwnagotchi-fsociety-plugins"]
+	path = bryzz42o/Pwnagotchi-fsociety-plugins
+	url = https://github.com/bryzz42o/Pwnagotchi-fsociety-plugins

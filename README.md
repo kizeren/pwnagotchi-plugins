@@ -314,3 +314,6 @@ achievements
 
 ## JD-2006
 Fallout faces mod
+
+## bryzz42o
+Pwnagotchi-fsociety-plugins
